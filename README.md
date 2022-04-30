@@ -4,6 +4,5 @@ Short introduction page CSS/HTML
 Features:
 - css variables
 - media queries
-- responsive design
 - floating nav bar
 - smooth scroling links
